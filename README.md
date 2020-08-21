@@ -4,7 +4,7 @@
 
 ---
 
-### This is a fork of [Chris Titus](https://github.com/ChrisTitusTech/material-awesome)'s material-awesome who forked it from [HikariKnight](https://github.com/HikariKnight/material-awesome)'s fork of the [original project](https://github.com/material-shell/material-awesome)
+### This is a fork of [Wizzdom](https://github.copm/wizzdom)'s from [Chris Titus](https://github.com/ChrisTitusTech/material-awesome)'s material-awesome who forked it from [HikariKnight](https://github.com/HikariKnight/material-awesome)'s fork of the [original project](https://github.com/material-shell/material-awesome)
 
 ### Note: This fork focuses on adding more documentation and comments, customising it to my workflow and making it more accessible
 
